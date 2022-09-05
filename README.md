@@ -6,9 +6,9 @@ Script order:
 - SGMem2_Preprocessing1.m
 - SGMem2_Preprocessing2.m
 - SGMem2_Preprocessing3.m
-- SGMem2_Analysis1.m
-- SGMem2_Analysis2_encoding.m
-- SGMem2_Analysis2_retrieval.m
-- SGMem2_Analysis3.m
+- SGMem2_analysis1.m
+- SGMem2_analysis2_encoding.m
+- SGMem2_analysis2_retrieval.m
+- SGMem2_analysis3.m
 
 The remaining scripts are subfunctions that are called within the abovementioned scripts.
