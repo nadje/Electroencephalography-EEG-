@@ -1,5 +1,7 @@
 # Electroencephalography-EEG-
-Preprocessing for EEG data based on the study "Sensory suppression and increased neuromodulation during actions disrupt memory encoding of unpredictable self-initiated stimuli" on Psychophysiology https://onlinelibrary.wiley.com/doi/10.1111/psyp.14156
+Preprocessing for EEG data based on the following study:
+
+Paraskevoudi, N. & SanMiguel, I. (2022). Sensory suppression and increased neuromodulation during actions disrupt memory encoding of unpredictable self-initiated stimuli, Psychophysiology. https://doi.org/10.1111/psyp.14156
 
 Script order:
 
